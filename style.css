@@ -58,7 +58,7 @@ h6{
     border-top-right-radius: 15px;
     padding: 10px 30px;
     box-shadow: 5px 10px 10px lightgray;
-    margin: 10px;
+    
     width: 100%;
 }
 .bg-img-2{
@@ -67,7 +67,7 @@ h6{
     border-top-left-radius: 15px;
     padding: 10px 30px;
     box-shadow: 5px 10px 10px lightgray;
-    margin: 10px;
+    
     width: 100%;
 }
 .bg-img-3{
@@ -76,7 +76,7 @@ h6{
     border-top-left-radius: 15px;
     padding: 10px 30px;
     box-shadow: 5px 10px 10px lightgray;
-    margin: 10px;
+
     width: 100%;
 }
 h4{
@@ -85,9 +85,6 @@ h4{
 }
 #imgbal{
     width: 400px;
-}
-.balimg{
-    margin-bottom: 20px;
 }
 footer{
     font-weight: 500;
